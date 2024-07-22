@@ -1,0 +1,8 @@
+.correct {
+    background-color: green !important;
+    color: rgb(245, 88, 88) !important;
+}
+.incorrect {
+    background-color: red !important;
+    color: WHite !important;
+}
